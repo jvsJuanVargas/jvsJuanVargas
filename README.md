@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/jvsJuanVargas/jvsJuanVargas/profilebackground_20220715111300.png)
+![MasterHead](https://github.com/jvsJuanVargas/jvsJuanVargas/blob/main/profilebackground_20220715111300.png)
 
 <h2>Connect with me</h2>
 <p>
