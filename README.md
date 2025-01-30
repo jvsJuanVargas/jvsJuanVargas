@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/jvsJuanVargas/jvsJuanVargas/blob/main/profilebackground_20220715111300.png)
 
 <h2>Connect with me</h2>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <p>
   <a href="https://twitter.com/jvsjuanvargas" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="24" width="40" /></a>
   <a href="https://instagram.com/jvsjuanvargas" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="24" width="40" /></a>
